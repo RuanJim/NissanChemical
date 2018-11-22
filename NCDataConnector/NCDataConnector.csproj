@@ -89,6 +89,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Requirements\pki_proposal_Ver30.pptx" />
     <None Include="SpotfireDeveloper.snk" />
     <Content Include="module.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
