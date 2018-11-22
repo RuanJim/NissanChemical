@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <id>9352b959-2238-4537-b012-c3f693f36ee3</id>
+  <name>NCDataConnector</name>
+  <version>1.0</version>
+  <assemblies>
+    <assembly>
+      <fullname>NCDataConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4d95002c27fab778</fullname>
+      <codebase>NCDataConnector.dll</codebase>
+      <compatibility>
+        <min-version>0.0.0.0</min-version>
+        <max-version>#.#.*.*</max-version>
+      </compatibility>
+    </assembly>
+  </assemblies>
+  <extensions>
+    <addIn fullTypeName="NCDataConnector.CustomAddIn, NCDataConnector, Version=1.0.0.0, Culture=neutral, PublicKeyToken=4d95002c27fab778" />
+  </extensions>
+</module>
